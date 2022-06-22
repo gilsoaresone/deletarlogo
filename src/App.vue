@@ -5,9 +5,6 @@
     <li>Data agendada: {{result.dataAgendada}}</li>
    </ul>
 
-
-
-
     <button @click="pegar()">carregar</button>
   </div>
 </template>
